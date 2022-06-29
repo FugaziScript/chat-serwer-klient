@@ -1,0 +1,6 @@
+﻿  Klient.cpp
+  Serwer TCP.cpp
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(27,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(66,16): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(66): error C2102: '&' requires l-value
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(74,46): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data

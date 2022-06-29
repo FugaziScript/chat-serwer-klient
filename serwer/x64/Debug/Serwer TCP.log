@@ -1,0 +1,18 @@
+﻿  Serwer TCP.cpp
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(27,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(68,16): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(76,46): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(90,52): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(93,61): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(119,90): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(120,91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(198,90): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(271,48): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(273,57): warning C4244: 'argument': conversion from 'SOCKET' to 'const int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(277,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(290,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(305,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(319,122): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(333,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\Serwer TCP.cpp(347,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Serwer TCP.vcxproj -> C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\serwer\x64\Debug\Serwer TCP.exe

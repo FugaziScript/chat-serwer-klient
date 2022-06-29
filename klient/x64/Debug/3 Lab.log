@@ -1,0 +1,14 @@
+﻿  3 Lab.cpp
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(34,16): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(42,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(68,108): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(160,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(161,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(191,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(211,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(236,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(243,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(261,37): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(279,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\3 Lab.cpp(323,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  3 Lab.vcxproj -> C:\Users\BefxP\Desktop\Programming\c++\Grzenik\chat\klient\x64\Debug\3 Lab.exe
